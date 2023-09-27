@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author holak
+ * @author GahelG
  */
 public class Numeropar {
 
@@ -15,7 +15,7 @@ public class Numeropar {
        
         Scanner ent=new Scanner(System.in);
                 
-                int N,O,R;
+                int N;
                 System.out.println("ingresa un número ");
                 N=ent.nextInt();
                 
